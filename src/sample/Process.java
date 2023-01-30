@@ -62,10 +62,4 @@ public class Process {
         }
         return "Not Found";
     }
-
-//    public static void main(String[] args) {
-//        String path = "C:\\Users\\Парвиз Джамилов\\Downloads\\";
-//        String MessageID = "410d2860-a664-11eb-ada6-005056833365";
-//        System.out.println(returnNameOfFile(path, MessageID));
-//    }
 }
